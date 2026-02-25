@@ -37,7 +37,3 @@
 * **Cybersecurity AI Assistant:** A RAG pipeline for semantic search based on cybersecurity corpora.
 * **Classroom Attention Detection:** Fine-tuned YOLOv8 model for real-time behavioral monitoring.
 
----
-
-### 📊 GitHub Stats:
-![Mouhamadou's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigor020&show_icons=true&theme=radical)
