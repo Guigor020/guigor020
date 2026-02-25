@@ -17,8 +17,6 @@
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamadou-gorgui-cisse-143b99207) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.kaggle.com/](https://www.kaggle.com/gorguiciss)) 
-[![Portfolio](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]([https://geopolitical-conflict-analysis-2bnirh6dz4y4cblvau7qc9.streamlit.app/](https://guigor020.github.io/about))
-
 ---
 
 ### 🛠 Tech Stack:
